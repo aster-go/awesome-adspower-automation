@@ -34,7 +34,7 @@ Whether you manage 10 accounts or 10,000, this repo gives you **production-ready
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/pencil20388-eng/awesome-adspower-automation.git
+git clone https://github.com/aster-go/awesome-adspower-automation.git
 cd awesome-adspower-automation
 ```
 
